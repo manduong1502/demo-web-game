@@ -1,6 +1,6 @@
 
 body {
-    background-color: #E3e7e8;
+    background-color: #1f1f1f;
 }
 
 .containers {
@@ -23,6 +23,7 @@ body {
 
 .container-item .shopping img {
     width: 40px;
+    color: #fff;
 }
 
 .container-item .shopping span {
@@ -54,6 +55,7 @@ body {
     background-color: #453E3B;
     height: 100vh;
     transition: 0.5s;
+    border-radius: 10px;
 }
 
 .card h1 {
